@@ -1,0 +1,1 @@
+{'part_of': 0, 'south_of': 1, 'east_of': 2, 'on': 3, 'at':4, 'in': 5, 'is': 6, 'north_of': 7, 'west_of': 8, 'needs': 9}
